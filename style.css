@@ -58,3 +58,11 @@
         width: 90%;
     }
 }
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5em;
+    color: black;
+}
